@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:fleblay/15puzzle.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:fleblay/42-npuzzle.git
